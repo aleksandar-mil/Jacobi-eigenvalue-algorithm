@@ -1,0 +1,35 @@
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csprojAssemblyReference.cache
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Form1.resources
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Properties.Resources.resources
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.GenerateResource.cache
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.CoreCompileInputs.cache
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe.config
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.pdb
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.exe
+D:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.pdb
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe.config
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.exe
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.pdb
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.pdb
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\mscorlib.dll
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\normidna.nlp
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\normnfc.nlp
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\normnfd.nlp
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\normnfkc.nlp
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\normnfkd.nlp
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csprojResolveAssemblyReference.cache
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Form1.resources
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Properties.Resources.resources
+E:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.GenerateResource.Cache
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe.config
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.exe
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\bin\Debug\Jakobijeva metoda.pdb
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.AssemblyReference.cache
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Form1.resources
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva_metoda.Properties.Resources.resources
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.GenerateResource.cache
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.csproj.CoreCompileInputs.cache
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.exe
+G:\New folder\Jakobijeva metoda\Jakobijeva metoda\obj\Debug\Jakobijeva metoda.pdb
